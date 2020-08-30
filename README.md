@@ -1,5 +1,5 @@
 # Snake_game
-## Juego de la vivorita Snake en Java
+## Juego de la viborita Snake en Java
 ###### Este proyecto fue realizado como proyecto en el curso de programación orientada a objetos en la universidad 
 
 #### Capturas del proyecto
